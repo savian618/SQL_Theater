@@ -1,2 +1,3 @@
 # SQL_Theater
-A database to keep track of our employees and multiple factory buildings.  
+The database Theater has five tables: SeatRow, SeatNum, Seat, Customer, and Ticket. The tables are created in MySQL Workbench in MySQL. Python and MySQL Connector is used to populate the table using PyCharm.
+
